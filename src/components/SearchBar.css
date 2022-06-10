@@ -1,0 +1,12 @@
+.search-field{
+    padding: 5px;
+    width: 70%;
+    border: 1px solid blue;
+    outline: none;
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+}
+.searchedVal{
+    color: blue;
+}
